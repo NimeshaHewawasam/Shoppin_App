@@ -1,14 +1,26 @@
-Online Shopping App
-Overview
-This is a full-stack online shopping web application that uses React for the frontend, Node.js and Express for the backend, and MongoDB for the database. The app allows users to browse and manage products in an online store. It connects to a MongoDB Atlas database and provides RESTful APIs for product management.
+# Online Shopping App
 
-Features
-Product Management: Add and fetch products using RESTful APIs.
-Database: MongoDB Atlas for storing product data.
-Backend: Node.js and Express server handling requests to the MongoDB database.
-Frontend: React (still to be completed).
-Tech Stack
-Frontend: React (still under development)
-Backend: Node.js, Express
-Database: MongoDB (using MongoDB Atlas)
-Hosting: MongoDB Atlas for the database
+## Overview
+This is a full-stack online shopping web application built with **React** for the frontend, **Node.js** and **Express** for the backend, and **MongoDB Atlas** for the database. It allows users to browse and manage products in an online store.
+
+## Features
+- **Product Management**: Ability to add and fetch products using RESTful APIs.
+- **Database**: MongoDB Atlas used for storing product data.
+- **Backend**: Node.js and Express handling requests to the MongoDB database.
+- **Frontend**: React for the user interface (still under development).
+
+## Tech Stack
+- **Frontend**: React
+- **Backend**: Node.js, Express
+- **Database**: MongoDB (MongoDB Atlas)
+- **Hosting**: MongoDB Atlas for the database
+
+## Getting Started
+
+### 1. Clone the Repository
+
+Clone the repository to your local machine:
+
+```bash
+git clone https://github.com/your-username/online-shop.git
+cd online-shop
